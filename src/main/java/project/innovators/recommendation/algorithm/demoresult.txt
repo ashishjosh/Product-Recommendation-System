@@ -1,0 +1,202 @@
+Slope One - Before the Prediction
+
+amol:
+ iphone7 32 GB --> 5.000
+ Lenovo Laptop --> 3.000
+ Iphone 11 --> 4.000
+ Otterbox Phone Case --> 3.000
+ Phone Charger --> 3.000
+ Apple Airpod --> 5.000
+ iPhone XS --> 2.000
+ HP laptop --> 3.000
+ Lenovo Ideapad S340 --> 2.000
+ Samsung Galaxy Note1 --> 3.000
+ Apple Watch Series 5 --> 5.000
+ Android Phone --> 2.000
+ Iphone11 --> 5.000
+ Dockers Shoes --> 2.000
+ Lenovo legion Y540 Laptop  --> 2.000
+ Samsung Watch --> 2.000
+ Lenovo Ideapad 15.6 --> 3.000
+ Chuck Taylor All Star Converse  --> 2.000
+ Golden State Worriors --> 2.000
+ Google Pixel --> 3.000
+ Samsung Galaxy A50 --> 2.000
+ Beats Headsets --> 5.000
+anil:
+ Iphone 11 --> 3.000
+ Otterbox Phone Case --> 3.000
+ Apple Watch Series 5 --> 4.000
+srijal:
+ iphone7 32 GB --> 4.000
+ Lenovo Laptop --> 3.000
+ Iphone 11 --> 5.000
+ Otterbox Phone Case --> 3.000
+ Phone Charger --> 3.000
+ Apple Airpod --> 4.000
+ iPhone XS --> 4.000
+ HP laptop --> 3.000
+ Lenovo Ideapad S340 --> 2.000
+ Samsung Galaxy Note1 --> 2.000
+ Apple Watch Series 5 --> 4.000
+ Android Phone --> 2.000
+ Iphone11 --> 4.000
+ Dockers Shoes --> 1.000
+ Lenovo legion Y540 Laptop  --> 3.000
+ Samsung Watch --> 3.000
+ Lenovo Ideapad 15.6 --> 3.000
+ Chuck Taylor All Star Converse  --> 3.000
+ Golden State Worriors --> 2.000
+ Google Pixel --> 3.000
+ Samsung Galaxy A50 --> 3.000
+ Beats Headsets --> 4.000
+roshan:
+ iphone7 32 GB --> 5.000
+ Lenovo Laptop --> 2.000
+ Iphone 11 --> 4.000
+ Otterbox Phone Case --> 2.000
+ Phone Charger --> 1.000
+ Apple Airpod --> 4.000
+ iPhone XS --> 4.000
+ HP laptop --> 4.000
+ Lenovo Ideapad S340 --> 3.000
+ Samsung Galaxy Note1 --> 2.000
+ Apple Watch Series 5 --> 4.000
+ Android Phone --> 4.000
+ Iphone11 --> 3.000
+ Dockers Shoes --> 2.000
+ Lenovo legion Y540 Laptop  --> 3.000
+ Samsung Watch --> 2.000
+ Lenovo Ideapad 15.6 --> 3.000
+ Chuck Taylor All Star Converse  --> 2.000
+ Golden State Worriors --> 3.000
+ Google Pixel --> 2.000
+ Samsung Galaxy A50 --> 2.000
+ Beats Headsets --> 4.000
+
+Slope One - With Predictions
+
+amol:
+ Lenovo Laptop --> 3.000
+ Vans Old Core Classis Levis --> -1.000
+ Otterbox Phone Case --> 3.000
+ Samsung Galaxy Note1 --> 3.000
+ Apple Watch Series 5 --> 5.000
+ Android Phone --> 2.000
+ Iphone11 --> 5.000
+ Lenovo legion Y540 Laptop  --> 2.000
+ Samsung Watch --> 2.000
+ NIKE Air Force --> -1.000
+ Golden State Worriors --> 2.000
+ Samsung Galaxy A50 --> 2.000
+ NIKE Airmax Motion 2 Womens Running Shoes --> -1.000
+ iphone7 32 GB --> 5.000
+ Dell Inspiron 11 --> -1.000
+ HP Laptop 15Z --> -1.000
+ NIKE Tanjung Womens Running Shoes --> -1.000
+ Iphone 11 --> 4.000
+ Phone Charger --> 3.000
+ Apple Airpod --> 5.000
+ iPhone XS --> 2.000
+ HP laptop --> 3.000
+ Lenovo Ideapad S340 --> 2.000
+ Dell Inspiron 11 --> -1.000
+ Dockers Shoes --> 2.000
+ Lenovo Ideapad 15.6 --> 3.000
+ Chuck Taylor All Star Converse  --> 2.000
+ Google Pixel --> 3.000
+ HP Elitebook --> -1.000
+ Beats Headsets --> 5.000
+anil:
+ Lenovo Laptop --> 2.653
+ Vans Old Core Classis Levis --> -1.000
+ Otterbox Phone Case --> 3.000
+ Samsung Galaxy Note1 --> 2.320
+ Apple Watch Series 5 --> 4.000
+ Android Phone --> 2.653
+ Iphone11 --> 3.987
+ Lenovo legion Y540 Laptop  --> 2.653
+ Samsung Watch --> 2.320
+ NIKE Air Force --> -1.000
+ Golden State Worriors --> 2.320
+ Samsung Galaxy A50 --> 2.320
+ NIKE Airmax Motion 2 Womens Running Shoes --> -1.000
+ iphone7 32 GB --> 4.653
+ Dell Inspiron 11 --> -1.000
+ HP Laptop 15Z --> -1.000
+ NIKE Tanjung Womens Running Shoes --> -1.000
+ Iphone 11 --> 3.000
+ Phone Charger --> 2.320
+ Apple Airpod --> 4.320
+ iPhone XS --> 3.320
+ HP laptop --> 3.320
+ Lenovo Ideapad S340 --> 2.320
+ Dell Inspiron 11 --> -1.000
+ Dockers Shoes --> 1.653
+ Lenovo Ideapad 15.6 --> 2.987
+ Chuck Taylor All Star Converse  --> 2.320
+ Google Pixel --> 2.653
+ HP Elitebook --> -1.000
+ Beats Headsets --> 4.320
+srijal:
+ Lenovo Laptop --> 3.000
+ Vans Old Core Classis Levis --> -1.000
+ Otterbox Phone Case --> 3.000
+ Samsung Galaxy Note1 --> 2.000
+ Apple Watch Series 5 --> 4.000
+ Android Phone --> 2.000
+ Iphone11 --> 4.000
+ Lenovo legion Y540 Laptop  --> 3.000
+ Samsung Watch --> 3.000
+ NIKE Air Force --> -1.000
+ Golden State Worriors --> 2.000
+ Samsung Galaxy A50 --> 3.000
+ NIKE Airmax Motion 2 Womens Running Shoes --> -1.000
+ iphone7 32 GB --> 4.000
+ Dell Inspiron 11 --> -1.000
+ HP Laptop 15Z --> -1.000
+ NIKE Tanjung Womens Running Shoes --> -1.000
+ Iphone 11 --> 5.000
+ Phone Charger --> 3.000
+ Apple Airpod --> 4.000
+ iPhone XS --> 4.000
+ HP laptop --> 3.000
+ Lenovo Ideapad S340 --> 2.000
+ Dell Inspiron 11 --> -1.000
+ Dockers Shoes --> 1.000
+ Lenovo Ideapad 15.6 --> 3.000
+ Chuck Taylor All Star Converse  --> 3.000
+ Google Pixel --> 3.000
+ HP Elitebook --> -1.000
+ Beats Headsets --> 4.000
+roshan:
+ Lenovo Laptop --> 2.000
+ Vans Old Core Classis Levis --> -1.000
+ Otterbox Phone Case --> 2.000
+ Samsung Galaxy Note1 --> 2.000
+ Apple Watch Series 5 --> 4.000
+ Android Phone --> 4.000
+ Iphone11 --> 3.000
+ Lenovo legion Y540 Laptop  --> 3.000
+ Samsung Watch --> 2.000
+ NIKE Air Force --> -1.000
+ Golden State Worriors --> 3.000
+ Samsung Galaxy A50 --> 2.000
+ NIKE Airmax Motion 2 Womens Running Shoes --> -1.000
+ iphone7 32 GB --> 5.000
+ Dell Inspiron 11 --> -1.000
+ HP Laptop 15Z --> -1.000
+ NIKE Tanjung Womens Running Shoes --> -1.000
+ Iphone 11 --> 4.000
+ Phone Charger --> 1.000
+ Apple Airpod --> 4.000
+ iPhone XS --> 4.000
+ HP laptop --> 4.000
+ Lenovo Ideapad S340 --> 3.000
+ Dell Inspiron 11 --> -1.000
+ Dockers Shoes --> 2.000
+ Lenovo Ideapad 15.6 --> 3.000
+ Chuck Taylor All Star Converse  --> 2.000
+ Google Pixel --> 2.000
+ HP Elitebook --> -1.000
+ Beats Headsets --> 4.000
